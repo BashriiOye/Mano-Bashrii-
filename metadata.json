@@ -1,0 +1,17 @@
+{
+  "name": "Mano",
+  "description": "Mano AI Assistant - Voice, device control, offline local LLM integration, and lock-screen accessibility for all Android devices.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation",
+    "display-capture",
+    "autoplay",
+    "wake-lock",
+    "clipboard-read",
+    "clipboard-write"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

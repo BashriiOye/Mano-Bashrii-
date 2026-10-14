@@ -1,0 +1,12 @@
+{
+  "name": "Mano · AI Assistant",
+  "short_name": "Mano",
+  "description": "Voice AI assistant with device control, offline local LLM, and lock-screen accessibility.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#05060a",
+  "theme_color": "#05060a",
+  "orientation": "portrait",
+  "icons": [],
+  "categories": ["utilities", "productivity"]
+}
